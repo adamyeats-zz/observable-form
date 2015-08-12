@@ -1,0 +1,22 @@
+{
+  "name": "observable-form",
+  "main": "observable-form.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/adamyeats/observable-form",
+  "authors": [
+    "Adam Yeats <ay@adam.yt>"
+  ],
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
